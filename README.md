@@ -7,6 +7,7 @@ Hi, I'm Ariel Alves a high school and I.T. technical course student from [Ribeir
 [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AriiiAlves)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AriiiAlves)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AriiiAlves)
+![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 [![Ariel's github stats](https://github-readme-stats.vercel.app/api?username=ariiialves&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ariiialves)
 
