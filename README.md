@@ -1,4 +1,4 @@
-Hi, I'm Ariel Alves a high school and I.T. technical course student from [Ribeirão Preto, Brazil](https://www.google.com.br/maps/place/Ariel+Alves/@-21.1794523,-47.8849868,12z/data=!3m1!4b1!4m6!3m5!1s0x94b9bf1d68acc21d:0x37b8ee0abedeea39!8m2!3d-21.1694018!4d-47.8110855!16zL20vMDFzcXNz?entry=ttu) 🇧🇷
+Hi I'm Ariel Alves, an undergraduate student in USP 🇧🇷
 
 ###  📚 Learning skills
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/AriiiAlves)
