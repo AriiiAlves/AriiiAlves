@@ -14,6 +14,14 @@
 
 ---
 
+## 🧑‍💻 About Me 🇧🇷 
+
+Sou um estudante de Ciência de Computação apaixonado por ciência e tecnologia, dedicado a aprender e fazer acontecer. Tenho interesse nas áreas de Cibersegurança, Desenvolvimento Back-End, Machine Learning, Programação Competitiva e Desenvolvimento Web.
+
+- 🌎 Brasil · Português (nativo) · Inglês (intermediário).
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does |
