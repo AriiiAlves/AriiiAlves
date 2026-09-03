@@ -1,3 +1,60 @@
-<h1 align="center">Hi, my name is Ariel!</h1>
-<h3 align="center">I'm a undergraduate in Computer Science from Brazil.</h3>
-<p>Feel free to discover my projects.</p>
+<h1 align="center">Hi, I'm Ariel! 🏓</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0B6E99&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+Student;AI+Undergraduate+Researcher" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ariiialves"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alvzariel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Projeto | O que faz |
+| :--- | :--- |
+| **[CatchTheFox](https://github.com/AriiiAlves/manual-pwning)** | Wiki para Engenharia Reversa e Pwning em PT-BR |
+
+> 📌 Repositórios fixados no topo do perfil ⬆️
+
+---
+
+## 🛠️ Tech Stack
+
+**🤖 Data Science**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-1C3C3C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MatPlotLib](https://img.shields.io/badge/MatPlotLib-FF6F61?style=for-the-badge&logo=graph&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-FF5A1F?style=for-the-badge&logo=numpy&logoColor=white)
+
+**⏪ Reverse Engineering**
+
+![IDA](https://img.shields.io/badge/IDAPro-009688?style=for-the-badge&logo=ida&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-6DA55F?style=for-the-badge&logo=ghidra&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-007ACC?style=for-the-badge&logo=terminal&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AriiiAlves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriiiAlves&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriiiAlves&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+---
+
+## 🌱 What I'm Working On
+
+- 🕸️ Arquiteturas multi-agente mais robustas (orquestração, MCP e tool-calling).
+- 📚 RAG avançado: re-ranking, avaliação de LLMs e mitigação de alucinação.
+- ☁️ Aprofundando AWS e preparando certificação cloud Associate.
