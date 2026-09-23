@@ -26,7 +26,9 @@ Sou um estudante de Ciência de Computação apaixonado por ciência e tecnologi
 
 | Project | What it does |
 | :--- | :--- |
-| **[CatchTheFox](https://github.com/AriiiAlves/manual-pwning)** | Wiki for Pwning/Reverse Engineering in PT-BR |
+| **[CatchTheFox](https://github.com/AriiiAlves/manual-pwning)** | Wiki for Pwning/Reverse Engineering (PT-BR) |
+|**[Obstacles Game](https://github.com/AriiiAlves/Uni-Courses/tree/main/Evolutionary-Systems-SCC0713/GA-Algorithms/Obstacles-Game)**| Evolutionary algorithm applied to a simple 2D game (EN) |
+|**[Cellphone Charger](https://github.com/AriiiAlves/Cellphone-Charger-Project)**| Complete cellphone charger (3V-12V) electronics project (PT-BR) |
 
 > 📌 Repositories fixed above ⬆️
 
