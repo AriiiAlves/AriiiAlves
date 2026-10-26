@@ -16,9 +16,15 @@
 
 ## 🧑‍💻 About Me 🇧🇷 
 
-Sou um estudante de Ciência de Computação apaixonado por ciência e tecnologia, dedicado a aprender e fazer acontecer. Tenho interesse nas áreas de Cibersegurança, Desenvolvimento Back-End, Machine Learning, Programação Competitiva e Desenvolvimento Web.
+Sou um estudante de Ciência de Computação apaixonado por ciência e tecnologia, dedicado a aprender e fazer acontecer. Tenho interesse nas áreas de Cibersegurança, Desenvolvimento Web, Robótica, Machine Learning, Programação Competitiva.
 
-- 🌎 Brasil · Português (nativo) · Inglês (intermediário).
+- 🌎 Português (nativo) · Inglês (intermediário).
+
+## 🧑‍💻 About Me 🇺🇸
+
+I'm a Computer Science undergraduate passioned about science and technology, dedicated to make it happen. I have interest in Cybersecurity, Web Development, Robotics, Machine Learning and Competitive Programming.
+
+- 🌎 Portuguese (native) · English (intermediary)
 
 ---
 
